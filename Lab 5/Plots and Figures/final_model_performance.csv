@@ -1,0 +1,8 @@
+Metric,Value
+Best Validation Accuracy (%),91.16848111152648
+Final Training Accuracy (%),99.2527186870575
+Final Validation Accuracy (%),90.625
+Final Training Loss,0.0598873384296894
+Final Validation Loss,0.2679979801177978
+Test Loss,0.3162049353122711
+Test Accuracy (%),89.72471952438354

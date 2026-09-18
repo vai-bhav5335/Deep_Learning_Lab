@@ -1,0 +1,4 @@
+Configuration,Mean Best Validation Accuracy (%),SD Best Validation Accuracy (%),Mean Final Validation Accuracy (%),SD Final Validation Accuracy (%)
+Additional Exercise,92.5249973932902,0.8559801292016079,92.29852755864461,0.9713484930427796
+Fold 1,91.00169539451599,,90.83191752433777,
+Fold 2,90.49236178398132,,89.98302221298218,

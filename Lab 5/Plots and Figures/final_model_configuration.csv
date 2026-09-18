@@ -1,0 +1,7 @@
+Parameter,Value
+Learning Rate,0.001
+Batch Size,32.0
+Dropout,0.25
+Trainable Parameters,47397.0
+Total Parameters,2305381.0
+Training Time (s),182.59199023246765

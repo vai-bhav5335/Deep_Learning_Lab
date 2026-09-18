@@ -1,0 +1,2 @@
+Model,Learning Rate,Batch Size,Dropout,Trainable Parameters,Total Parameters,Best Validation Accuracy (%),Final Training Accuracy (%),Final Validation Accuracy (%),Final Training Loss,Final Validation Loss,Test Loss,Test Accuracy (%),Training Time (s)
+Final Selected Model,0.001,32,0.25,47397,2305381,91.16848111152648,99.2527186870575,90.625,0.0598873384296894,0.2679979801177978,0.3162049353122711,89.72471952438354,182.59199023246765

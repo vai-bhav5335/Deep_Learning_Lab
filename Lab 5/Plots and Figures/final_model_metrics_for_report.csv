@@ -1,0 +1,11 @@
+Metric,Value
+Mean CV Accuracy,89.19863104820251
+CV Standard Deviation,1.0196830247252258
+Test Accuracy,89.72471952438354
+Test Loss,0.3162049353122711
+Precision,
+Recall,
+F1-score,
+Training Time (s),182.59199023246765
+Trainable Parameters,47397.0
+Total Parameters,2305381.0

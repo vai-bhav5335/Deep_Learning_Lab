@@ -1,0 +1,11 @@
+Configuration,Fold,Keras File,Path,File Size (MB),Contains config.json,Contains metadata.json,Keras Metadata
+Baseline,1,model.keras,/content/drive/MyDrive/Lab5/Lab5/checkpoints/cross_validation/baseline/fold_1/model.keras,9.533772468566895,True,True,"{'keras_version': '3.13.2', 'date_saved': '2026-08-31@17:54:50'}"
+Baseline,2,model.keras,/content/drive/MyDrive/Lab5/Lab5/checkpoints/cross_validation/baseline/fold_2/model.keras,9.533772468566895,True,True,"{'keras_version': '3.13.2', 'date_saved': '2026-08-31@18:06:34'}"
+Baseline,3,model.keras,/content/drive/MyDrive/Lab5/Lab5/checkpoints/cross_validation/baseline/fold_3/model.keras,9.533772468566895,True,True,"{'keras_version': '3.13.2', 'date_saved': '2026-08-31@18:18:49'}"
+Baseline,4,model.keras,/content/drive/MyDrive/Lab5/Lab5/checkpoints/cross_validation/baseline/fold_4/model.keras,9.533772468566895,True,True,"{'keras_version': '3.13.2', 'date_saved': '2026-08-31@18:30:43'}"
+Baseline,5,model.keras,/content/drive/MyDrive/Lab5/Lab5/checkpoints/cross_validation/baseline/fold_5/model.keras,9.533772468566895,True,True,"{'keras_version': '3.13.2', 'date_saved': '2026-08-31@18:43:03'}"
+Fine Tuned,1,model.keras,/content/drive/MyDrive/Lab5/Lab5/checkpoints/cross_validation/fine-tuned/fold_1/model.keras,14.096420288085938,True,True,"{'keras_version': '3.13.2', 'date_saved': '2026-08-31@16:39:55'}"
+Fine Tuned,2,model.keras,/content/drive/MyDrive/Lab5/Lab5/checkpoints/cross_validation/fine-tuned/fold_2/model.keras,14.096420288085938,True,True,"{'keras_version': '3.13.2', 'date_saved': '2026-08-31@16:56:15'}"
+Fine Tuned,3,model.keras,/content/drive/MyDrive/Lab5/Lab5/checkpoints/cross_validation/fine-tuned/fold_3/model.keras,14.096420288085938,True,True,"{'keras_version': '3.13.2', 'date_saved': '2026-08-31@17:11:01'}"
+Fine Tuned,4,model.keras,/content/drive/MyDrive/Lab5/Lab5/checkpoints/cross_validation/fine-tuned/fold_4/model.keras,14.096420288085938,True,True,"{'keras_version': '3.13.2', 'date_saved': '2026-08-31@17:26:43'}"
+Fine Tuned,5,model.keras,/content/drive/MyDrive/Lab5/Lab5/checkpoints/cross_validation/fine-tuned/fold_5/model.keras,14.096420288085938,True,True,"{'keras_version': '3.13.2', 'date_saved': '2026-08-31@17:42:31'}"
